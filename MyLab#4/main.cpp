@@ -1,3 +1,11 @@
+/* Mia Koppen
+3rd semester, 1st year
+Due: October 27th
+Lab #4
+inputting temperatures ranging from -30 to 120 from a file into main. 
+storing them in a string, and outputting 1 star for every 3 degrees to create 
+a bar chart.
+*/
 #include <iostream>
 #include <fstream>
 #include "myTemps.h"
